@@ -1,15 +1,12 @@
 {
-  "name": "npm",
+  "name": "simplecal",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a simple calculator module.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "figlet": "^1.7.0"
-  }
+  "author": "Taimur132",
+  "license": "ISC"
 }
 
